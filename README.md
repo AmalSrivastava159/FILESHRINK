@@ -82,11 +82,8 @@ File decompressed and saved as sample_decoded.txt
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
 
-## 📜 License
-This project is **open-source** and available under the **MIT License**.
-
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out:
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **GitHub**: [Your GitHub Profile](https://github.com/Shivaay2003)
+- **Email**: shivaaya.2003@gmail.com
 
